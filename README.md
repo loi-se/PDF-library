@@ -16,17 +16,31 @@ User requirements:
 A version of Windows (XP, Vista, Windows 7, Windows 8, Windows 10) with Microsoft .NET Framework 4.0.
 
 Features
+
 -Built-in PDF viewer.
--Scan folders for PDF files or add PDF files manually
+
+-Scan folders for PDF files or add PDF files manually.
+
 -Scan on filename or on a search term found in the first two pages of a PDF file.
--Show your PDF files as cover images on a bookshelf
--Tag your pdf files with search tags
--Search in PDF meta-information or PDF content
+
+-Show your PDF files as cover images on a bookshelf.
+
+-Tag your pdf files with search tags.
+
+-Search in PDF meta-information or PDF content.
+
 -Create a Search Index for all the PDF content in the library.
+
 -Perform highspeed full-text searches on all the PDF content in your library.
+
 -Advanced search function.
+
 -Sort your PDF bookshelves.
+
 -Show all your PDF bookshelves in one screen.
--Change the meta-information of each book
+
+-Change the meta-information of each book.
+
 -View all your books in a sortable gridview.
--Basic library statistics
+
+-Basic library statistics.
