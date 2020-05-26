@@ -15,7 +15,7 @@ This application makes use of the following open source libraries:
 User requirements:
 A version of Windows (XP, Vista, Windows 7, Windows 8, Windows 10) with Microsoft .NET Framework 4.0.
 
-Features
+Features:
 
 -Built-in PDF viewer.
 
