@@ -44,3 +44,5 @@ Features:
 -View all your books in a sortable gridview.
 
 -Basic library statistics.
+
+![](PDF-library/sc1.jpg)
