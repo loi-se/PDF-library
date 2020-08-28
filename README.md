@@ -45,4 +45,4 @@ Features:
 
 -Basic library statistics.
 
-![](PDF-library/sc1.jpg)
+![](PDF-library/sc0.jpg)
